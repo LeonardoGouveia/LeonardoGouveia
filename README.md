@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @LeonardoGouveia. Natural de João Pessoa, PB.
+- 👋 Hi, I’m @LeonardoGouveia. from João Pessoa, PB.
 - 👀 I’m interested in study, play, train..
 - 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/leonardo-de-lima-gouveia-943810212/
 
 <!---
